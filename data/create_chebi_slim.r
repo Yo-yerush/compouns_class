@@ -1,5 +1,3 @@
-setwd("C:/Users/yonatany/Migal/Rachel Amir Team - General/yonatan/chebi db/pipline_scripts/package_files_310523/")
-
 library(ontologyIndex)
 
 obo_in  <- "data/chebi.obo"
