@@ -4,9 +4,9 @@ prepare_inchi_table <- function(lcms_inchi_df, lcms_edit, inchi_type) {
   # ------------------------------
   # upload ChEBI structures_lite file
   if (inchi_type == "InChI.Key") {
-    inchi_df = read.csv("data/structures_lite_InChIKey.csv")
+    inchi_df = read.csv("data/structures_lite_InChIKey.csv.gz")
   } else {
-    inchi_df = read.csv("data/structures_lite_inchi.csv")
+    inchi_df = read.csv("data/structures_lite_inchi.csv.gz")
     }
 
   names(inchi_df)[2] = inchi_type
