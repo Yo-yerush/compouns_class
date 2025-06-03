@@ -1,0 +1,69 @@
+Ontology,class
+lipid,class_1
+carbohydrate,class_1
+organic amino compound,class_1
+sulfur molecular entity,class_1
+aromatic ketone,class_1
+aromatic compound,class_1
+amino-acid residue,class_1
+carbobicyclic compound,class_1
+peptide,class_1
+amino acid zwitterion,class_1
+glycan,class_1
+carboxylic acid,class_1
+cyclohexenecarboxylic acid,class_1
+sulfur-containing carboxylic acid,class_1
+benzenoid aromatic compound,class_1
+phenols,class_1
+phenol,class_1
+polyphenol,class_1
+amino acid,class_1
+phenylpropanoid,class_1
+alkaloid,class_1
+polyphenol,class_2
+oligosaccharide,class_2
+monosaccharide,class_2
+disaccharide,class_2
+salicylates,class_2
+B vitamin,class_2
+vitamin E,class_2
+quinone,class_2
+benzofurans,class_2
+benzofuran,class_2
+furanocoumarin,class_2
+coumarins,class_2
+chromene,class_2
+flavonoid,class_2
+flavonoids,class_2
+tannin,class_2
+aspartate family amino acid,class_2
+gamma-amino acid,class_2
+sulfur-containing amino acid,class_2
+cinnamic acids,class_2
+chalcone,class_3
+chalcones,class_3
+terpenoid,class_3
+terpene,class_3
+flavonol,class_3
+flavonols,class_3
+flavan,class_3
+flavans,class_3
+flavanone,class_3
+flavanonol,class_3
+flavanones,class_3
+flavone,class_3
+flavones,class_3
+isoflavone,class_3
+isoflavan,class_3
+isoflavans,class_3
+isoflavones,class_3
+gallate ester,class_3
+proanthocyanidin,class_3
+hydrolysable tannin,class_3
+galloyl beta-D-glucose,class_4
+leucoanthocyanidin,class_4
+anthocyanin,class_4
+anthocyanin cation,class_4
+phlorotannin,class_4
+gallotannin,class_4
+ellagitannin,class_4
