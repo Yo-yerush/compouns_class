@@ -7,11 +7,11 @@ prepare_final_table <- function(comp_file,
   # ------------------------------
   
   suppressWarnings(library(ontologyIndex))
-  #  suppressWarnings(library(stringr))
   
   if (is.null(chebi_db_file_uploaded) == T) {
     message("upload ChEBI ontology database file...")
-    chebi_db = get_OBO("data/chebi.obo")
+    #chebi_db = get_OBO("data/chebi.obo")
+    chebi_db <- readRDS("chebi_slim.rds")
     message("uploaded ChEBI ontology database")
   } else {chebi_db = chebi_db_file_uploaded}
   
